@@ -1,5 +1,4 @@
 public class Banco {
-
     private Cliente cliente1, cliente2, cliente3;
 
     // constructor

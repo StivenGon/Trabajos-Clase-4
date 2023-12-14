@@ -19,5 +19,4 @@ public class Cliente {
     public String retornarNombre(){
     return this.nombre;
     }
-    
 }
